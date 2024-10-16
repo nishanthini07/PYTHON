@@ -12,3 +12,8 @@ This repository contains my work in Python. The purpose of this project is to de
 1. Clone the repository:
    ```bash
    git clone https://github.com/nishanthini07/PYTHON
+
+### Extra
+- **Project Titles**: Make sure to name your projects clearly.
+- **Descriptions**: Keep them concise but informative. 
+- **Usage Instructions**: If someone else looks at your work, they’ll need to know how to run it.
