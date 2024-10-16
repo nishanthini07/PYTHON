@@ -11,4 +11,4 @@ This repository contains my work in Python. The purpose of this project is to de
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/nishanthini07/PYTHON
